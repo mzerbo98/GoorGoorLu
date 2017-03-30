@@ -1,0 +1,1430 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"pre",
+				"prestation"
+			],
+			[
+				"noter",
+				"noterPrestataire\t(functions.php)"
+			],
+			[
+				"est",
+				"estNote\t(database.php)"
+			],
+			[
+				"p",
+				"prestation"
+			],
+			[
+				"rech",
+				"rechercheNote\t(database.php)"
+			],
+			[
+				"cl",
+				"client"
+			],
+			[
+				"no",
+				"note"
+			],
+			[
+				"re",
+				"rechercheClient"
+			],
+			[
+				"Lo",
+				"Location:index.php\t(client.php)"
+			],
+			[
+				"da",
+				"database.php\t(functions.php)"
+			],
+			[
+				"pres",
+				"prestation"
+			],
+			[
+				"upd",
+				"update"
+			],
+			[
+				"ta",
+				"tarif\t(functions.php)"
+			],
+			[
+				"z",
+				"zone"
+			],
+			[
+				"va",
+				"values"
+			],
+			[
+				"co",
+				"code"
+			],
+			[
+				"ret",
+				"return"
+			],
+			[
+				"f",
+				"function"
+			],
+			[
+				"upda",
+				"updateClient\t(database.php)"
+			],
+			[
+				"con",
+				"confirme"
+			],
+			[
+				"pr",
+				"prestataire"
+			],
+			[
+				"substr_",
+				"substr_replace"
+			],
+			[
+				"func",
+				"functions.php\t(signup.php)"
+			],
+			[
+				"in",
+				"include\t(signup.php)"
+			],
+			[
+				"r",
+				"rechercheClient\t(database.php)"
+			],
+			[
+				"nom",
+				"nombreClient\t(database.php)"
+			],
+			[
+				"ser",
+				"service_prestataire"
+			],
+			[
+				"v",
+				"values"
+			],
+			[
+				"a",
+				"auto"
+			],
+			[
+				"h",
+				"hidden"
+			],
+			[
+				"se",
+				"sendform"
+			],
+			[
+				"el",
+				"elt(id)\tgoorgoorlu.js"
+			],
+			[
+				"en",
+				"entrer\t(index.php)"
+			],
+			[
+				"t",
+				"text"
+			],
+			[
+				"tex",
+				"text"
+			],
+			[
+				"php",
+				"php\t<?php … ?>"
+			],
+			[
+				"left",
+				"margin-left"
+			],
+			[
+				"ind",
+				"index"
+			],
+			[
+				"rec",
+				"recherchePrestataire\t(signup.php)"
+			],
+			[
+				"els",
+				"else\t(signup.php)"
+			],
+			[
+				"G",
+				"GoorGoorlu\t(resultats.php)"
+			],
+			[
+				"goo",
+				"goorgoorlu.esp@gmail.com"
+			],
+			[
+				"mar",
+				"margin-left\t(functions.php)"
+			],
+			[
+				"cou",
+				"count\t(index.php)"
+			],
+			[
+				"prest",
+				"prestation"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"st",
+				"style\tAttr"
+			],
+			[
+				"val",
+				"value"
+			],
+			[
+				"mdp",
+				"mdp-repeat"
+			],
+			[
+				"inc",
+				"include\t(functions.php)"
+			],
+			[
+				"lin",
+				"linkPres\t(index.php)"
+			],
+			[
+				"if",
+				"if\tif …"
+			],
+			[
+				"reche",
+				"recherchePrestatires\t(database.php)"
+			],
+			[
+				"b",
+				"b\tTag"
+			],
+			[
+				"lo",
+				"logform"
+			],
+			[
+				"prestat",
+				"prestataire\t(index.php)"
+			],
+			[
+				"glo",
+				"global"
+			],
+			[
+				"elt",
+				"elt(id)\tgoorgoorlu.js"
+			],
+			[
+				"subs",
+				"substring( start: int, end: int ): string\tString"
+			],
+			[
+				"onc",
+				"onclick\tAttr"
+			],
+			[
+				"fon",
+				"font-size"
+			],
+			[
+				"le",
+				"margin-left"
+			],
+			[
+				"zon",
+				"zones\t(database.php)"
+			],
+			[
+				"zo",
+				"zone\t(database.php)"
+			],
+			[
+				"id",
+				"id\tAttr"
+			],
+			[
+				"glob",
+				"global\t(database.php)"
+			],
+			[
+				"A",
+				"Array"
+			],
+			[
+				"fo",
+				"for\tfor …"
+			],
+			[
+				"for",
+				"for\tfor (…) {…}"
+			],
+			[
+				"alig",
+				"text-align"
+			],
+			[
+				"Ar",
+				"Array (fn)"
+			],
+			[
+				"sli",
+				"slides2"
+			],
+			[
+				"mysq",
+				"mysqli_close\t(ListeProjets.php)"
+			],
+			[
+				"my",
+				"mysqli_query\t(Index.php)"
+			],
+			[
+				"des",
+				"desc"
+			],
+			[
+				"bo",
+				"border-radius"
+			],
+			[
+				"funct",
+				"function with name"
+			],
+			[
+				"i",
+				"id\tAttr"
+			],
+			[
+				"N",
+				"NOT"
+			],
+			[
+				"ma",
+				"margin"
+			],
+			[
+				"do",
+				"document"
+			],
+			[
+				"functo",
+				"function (?)"
+			],
+			[
+				"on",
+				"onchange\tAttr"
+			],
+			[
+				"tet",
+				"textarea\tTag"
+			],
+			[
+				"_",
+				"_SESSION"
+			],
+			[
+				"mys",
+				"mysqli_query"
+			],
+			[
+				"act",
+				"active\t(formproject.php)"
+			],
+			[
+				"user",
+				"username"
+			],
+			[
+				"na",
+				"nav"
+			],
+			[
+				"li",
+				"li\tTag"
+			],
+			[
+				"pa",
+				"page-header\t(DEV.php)"
+			],
+			[
+				"me",
+				"meta\tTag"
+			],
+			[
+				"form",
+				"formproject.php"
+			],
+			[
+				"id_",
+				"id_dev\t(DEV.php)"
+			],
+			[
+				"proj",
+				"projet\t(DEV.php)"
+			],
+			[
+				"lib",
+				"libelle\t(DEV.php)"
+			],
+			[
+				"sub",
+				"submit"
+			],
+			[
+				"su",
+				"submit\t.submit()"
+			],
+			[
+				"lastIndex",
+				"lastIndexOf( searchString: string, position?: int ): int\tString"
+			],
+			[
+				"pu",
+				"push"
+			],
+			[
+				"cell",
+				"cellspacing\tAttr"
+			],
+			[
+				"bor",
+				"border"
+			],
+			[
+				"mysqli_fe",
+				"mysqli_fetch_array"
+			],
+			[
+				"pro",
+				"proj"
+			],
+			[
+				"met",
+				"method\tAttr"
+			],
+			[
+				"unse",
+				"unset"
+			],
+			[
+				"m",
+				"method\tAttr"
+			],
+			[
+				"sess",
+				"session_start\t(Index.php)"
+			],
+			[
+				"cre",
+				"createDEV.html\t(RESP.php)"
+			],
+			[
+				"op",
+				"option"
+			],
+			[
+				"mysqli_fec",
+				"mysqli_fetch_array\t(Index.php)"
+			],
+			[
+				"us",
+				"users"
+			],
+			[
+				"e",
+				"echo\techo \"…\""
+			],
+			[
+				"setcooki",
+				"setcookie"
+			],
+			[
+				"set",
+				"setcookie\t(Authen.php)"
+			],
+			[
+				"file",
+				"filename"
+			],
+			[
+				"iss",
+				"isset"
+			],
+			[
+				"vali",
+				"vertical-align"
+			],
+			[
+				"text-a",
+				"text-align"
+			],
+			[
+				"he",
+				"height"
+			],
+			[
+				"wi",
+				"width"
+			],
+			[
+				"functi",
+				"function with name"
+			],
+			[
+				"T",
+				"Telecharger.php\t(Authen.php)"
+			],
+			[
+				"ac",
+				"action\tAttr"
+			],
+			[
+				"function",
+				"create_function"
+			],
+			[
+				"PASS",
+				"PASSWORD"
+			],
+			[
+				"pas",
+				"password"
+			],
+			[
+				"Au",
+				"Authen.php"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "css/slides.css",
+			"settings":
+			{
+				"buffer_size": 1334,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "css/style.css",
+			"settings":
+			{
+				"buffer_size": 1298,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "css/forms.css",
+			"settings":
+			{
+				"buffer_size": 2718,
+				"encoding": "UTF-8",
+				"line_ending": "Windows",
+				"name": "input[type=text], input[type=password] {"
+			}
+		},
+		{
+			"file": "signup.php",
+			"settings":
+			{
+				"buffer_size": 1148,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "notation.php",
+			"settings":
+			{
+				"buffer_size": 985,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "database.php",
+			"settings":
+			{
+				"buffer_size": 9025,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "index.php",
+			"settings":
+			{
+				"buffer_size": 8859,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "functions.php",
+			"settings":
+			{
+				"buffer_size": 4608,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "GoorGoorLu.sublime-project",
+			"settings":
+			{
+				"buffer_size": 45,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "client.php",
+			"settings":
+			{
+				"buffer_size": 314,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "resultats.php",
+			"settings":
+			{
+				"buffer_size": 2983,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "login.php",
+			"settings":
+			{
+				"buffer_size": 415,
+				"encoding": "UTF-8",
+				"line_ending": "Windows",
+				"name": "<?php ?>"
+			}
+		},
+		{
+			"file": "Deconnection.php",
+			"settings":
+			{
+				"buffer_size": 46,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Packages/C++/C++ Single File.sublime-build",
+					""
+				],
+				[
+					"Packages/C++/C++ Single File.sublime-build",
+					"Run"
+				]
+			],
+			[
+				"Packages/C++/C++ Single File.sublime-build",
+				""
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"last_filter": "p",
+		"selected_items":
+		[
+			[
+				"p",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 528.0
+	},
+	"console":
+	{
+		"height": 51.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = 'df21e130d211cfc94d9b0905775a7c0f' + '1e3d39e33b79698005270310898eea76'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by) "
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/wamp64/www/GoorGoorLu",
+		"/C/wamp64/www/GoorGoorLu/css",
+		"/C/wamp64/www/GoorGoorLu/js"
+	],
+	"file_history":
+	[
+		"/C/Users/MZ/Desktop/GoorGoorLu/goorgoorlu/db_dir/SqlRequests.php",
+		"/C/wamp64/www/GoorGoorLu/functions.php",
+		"/C/wamp64/www/GoorGoorLu/js/goorgoorlu.js",
+		"/C/wamp64/www/GoorGoorLu/database.php",
+		"/C/wamp64/www/GoorGoorLu/js/prestataire.js",
+		"/C/wamp64/www/GoorGoorLu/js/index.js",
+		"/C/wamp64/www/GoorGoorLu/js/animations.js",
+		"/C/wamp64/www/GoorGoorLu/mail/index.php",
+		"/C/wamp64/www/GoorGoorLu/send-email-from-localhost-php/index.php",
+		"/C/wamp64/bin/php/php5.6.16/php.ini",
+		"/C/wamp64/www/GoorGoorLu/signup.php",
+		"/C/wamp64/www/GoorGoorLu/notation.php",
+		"/C/Users/MZ/Desktop/notation/index.html",
+		"/C/wamp64/www/GoorGoorLu/index.php",
+		"/C/wamp64/www/GoorGoorLu/default.html",
+		"/C/wamp64/www/TP/TaskManager/ListeProjets.php",
+		"/C/Users/MZ/Desktop/notation/css/style.css",
+		"/C/wamp64/www/TP/TaskManager/Index.php",
+		"/C/wamp64/www/GoorGoorLu/js/form.js",
+		"/C/Users/MZ/Downloads/Compressed/GoorGoorLu/goorgoorlu/db_dir/class/Client.php",
+		"/C/wamp64/www/TP/TaskManager/DEV.php",
+		"/C/wamp64/www/GoorGoorLu/recherche.php",
+		"/C/wamp64/www/GoorGoorLu/css/slides.css",
+		"/C/wamp64/www/GoorGoorLu/test.html",
+		"/C/Mes Sites Web/http___www.css3create.com_/www.css3create.com/Navigation-slide-CSS3-avec-target-et-transitions.html",
+		"/C/wamp64/www/hotel/index.php",
+		"/C/wamp64/www/hotel/header.php",
+		"/C/wamp64/www/TP/TaskManager/Index.html",
+		"/C/wamp64/www/TP/TaskManager/createDEV.php",
+		"/C/wamp64/www/webide/index.html",
+		"/C/Users/MZ/Downloads/goorgoorlu.sql",
+		"/C/Users/MZ/Downloads/goorgoorlu(1).sql",
+		"/C/Users/MZ/Desktop/Workspace/DB/GestionMateriel.sql",
+		"/C/Users/MZ/Desktop/Workspace/GoorGoorLu/DB.sql",
+		"/C/wamp64/www/TP/TaskManager/RESP.php",
+		"/C/wamp64/www/TP/TaskManager/formproject.php",
+		"/C/wamp64/www/TP/TaskManager/Projet.php",
+		"/C/wamp64/www/TP/TaskManager/formDEV.php",
+		"/C/wamp64/www/exos/files/formulaire.html",
+		"/C/wamp64/www/exos/files/traitement.php",
+		"/C/Users/MZ/Desktop/Workspace/Base de données finale (2).sql",
+		"/C/Documents/Hint DUT2/IA/exo.lisp",
+		"/C/Users/MZ/Desktop/poc.py",
+		"/C/Users/MZ/Desktop/README.md",
+		"/C/Program Files (x86)/Goyal/Website 2 APK Builder Pro/Website 2 APK Builder Pro 2.2.exe.config",
+		"/C/Users/MZ/AppData/Local/Temp/Rar$DRa0.057/GestionMateriel/src/ecole/Planning.java",
+		"/C/Users/MZ/Desktop/Workspace/Eclipse/Java/GestionMateriel/backup/Inscription.java",
+		"/C/Users/MZ/Desktop/Workspace/Eclipse/Java/GestionMateriel/backup/Programme.java",
+		"/C/Users/MZ/Desktop/Workspace/UML/TD1/Exo3.mdj",
+		"/C/Users/MZ/Desktop/Crack V17/64 Bits/WebDev 17 - 64 Bits.reg",
+		"/C/wamp64/www/TP/TaskManager/js/script.js",
+		"/C/wamp64/www/TP/TaskManager/Attribution.php",
+		"/C/wamp64/www/TP/TaskManager/createproject.php",
+		"/C/inetpub/wwwroot/TaskManager/createproject.php",
+		"/C/inetpub/wwwroot/TaskManager/createDEV.php",
+		"/C/Users/MZ/Desktop/Workspace/Eclipse/Java/GestionMateriel/backup/Suppression.java",
+		"/C/workspace_ubuntu/TPCommunication/exo1.c",
+		"/C/Users/MZ/Desktop/Workspace/Eclipse/Java/GestionMateriel/backup/Affichage.java",
+		"/C/Users/MZ/Desktop/Workspace/Eclipse/Java/GestionMateriel/backup/Admin.java",
+		"/C/wamp64/www/TP/TaskManager/Deconnexion.php",
+		"/C/Users/MZ/Downloads/TextPrompt.java",
+		"/C/wamp64/www/TP/TaskManager/Update.php",
+		"/C/Users/MZ/Desktop/Workspace/Web/Task Manager/index.html",
+		"/C/wamp64/www/TP/TaskManager/Admin.php",
+		"/C/wamp64/www/test.php",
+		"/C/wamp64/www/TP/TaskManager/createproject.html",
+		"/C/wamp64/www/TP/TaskManager/createDEV.html",
+		"/C/wamp64/www/TP/2/Deconnexion.php",
+		"/C/wamp64/www/TP/2/Telecharger.php",
+		"/C/wamp64/www/TP/2/Authen.php",
+		"/C/Users/MZ/Desktop/Workspace/Eclipse/Java/GestionMateriel/src/programme/backup/Admin.java",
+		"/C/Users/MZ/Desktop/Workspace/Eclipse/Java/GestionMateriel/src/programme/backup/Affichage.java",
+		"/C/Users/MZ/Desktop/Workspace/Eclipse/Java/GestionMateriel/src/programme/backup/Programme.java",
+		"/C/Users/MZ/Desktop/Workspace/Eclipse/Java/GestionMateriel/src/programme/backup/Suppression.java",
+		"/C/Users/MZ/Desktop/Workspace/Eclipse/Java/GestionMateriel/src/programme/backup/Inscription.java",
+		"/C/Users/MZ/Desktop/Workspace/Web/Task Manager/backup/index.html",
+		"/C/wamp64/www/TP/2/index.php",
+		"/C/Program Files (x86)/Counter-Strike 1.6/hltv.cfg",
+		"/C/wamp64/www/TP/1/exo3/punition.php",
+		"/C/wamp64/www/TP/1/exo3/tablemulti.php",
+		"/C/wamp64/www/TP/1/exo3/nbpairs.php",
+		"/C/wamp64/www/index.php",
+		"/C/wamp64/www/TP/1/exo4/random.php",
+		"/C/wamp64/www/TP/1/exo2/variables.php",
+		"/C/wamp64/www/exos/index.html",
+		"/C/Users/MZ/Desktop/File report.txt",
+		"/C/wamp64/www/exos/sessions/exo1.php",
+		"/C/wamp64/www/exos/form/formulaire.html",
+		"/C/wamp64/www/exos/form/traitement.php",
+		"/C/wamp64/www/exos/exo_form/formulaire.php",
+		"/C/wamp64/www/exos/exo_files/traitement.php",
+		"/C/wamp64/bin/apache/apache2.4.17/conf/extra/httpd-vhosts.conf",
+		"/C/Users/MZ/Desktop/Workspace/Web/JS/JQuery/test.html",
+		"/C/Users/MZ/Desktop/Workspace/Web/3 Pions/Site/dist/js/3pions.js",
+		"/C/Users/MZ/AppData/Local/Temp/Rar$DIa0.910/README.md",
+		"/C/Users/MZ/Desktop/Workspace/Eclipse/Java/TP2/src/exercice3/TestEtudiant.java",
+		"/C/Users/MZ/Desktop/Workspace/Eclipse/Java/TP3/src/exercice4/Jour.java",
+		"/C/Users/MZ/Desktop/Workspace/Eclipse/Java/GestionMateriel/src/programme/Affichage.java",
+		"/C/Users/MZ/Desktop/Workspace/Eclipse/Java/GestionMateriel/src/programme/Admin.java",
+		"/C/Users/MZ/Desktop/Workspace/Eclipse/Java/GestionMateriel/src/programme/Inscription.java",
+		"/C/Users/MZ/Desktop/Workspace/Eclipse/Java/GestionMateriel/src/programme/Suppression.java",
+		"/C/Users/MZ/Desktop/Workspace/Eclipse/Java/GestionMateriel/src/programme/Programme.java",
+		"/C/wamp64/www/exos/exo_files/formulaire.html",
+		"/C/wamp64/www/tab1.php",
+		"/C/Users/MZ/Desktop/hosts",
+		"/C/Windows/System32/drivers/etc/hosts",
+		"/C/wamp64/www/exos/exo_files/formulaire",
+		"/C/Users/MZ/AppData/Roaming/Sublime Text 3/Packages/User/WakaTime.sublime-settings",
+		"/C/wamp64/www/exo_form/traitement.php",
+		"/C/Users/MZ/Desktop/CSV/l1.csv",
+		"/C/Users/MZ/Desktop/CSV/Dut2.csv",
+		"/C/Users/MZ/Desktop/CSV/Dut1.csv",
+		"/C/Users/MZ/Desktop/CSV/l3.csv",
+		"/C/Users/MZ/Desktop/CSV/l2.csv",
+		"/C/Users/MZ/Desktop/CSV/Dic2.csv",
+		"/C/Users/MZ/Desktop/CSV/Dic.csv",
+		"/C/wamp64/www/exo_form/formulaire.html",
+		"/C/Users/MZ/Desktop/Workspace/Web/Task Manager/test.html",
+		"/C/Users/MZ/AppData/Roaming/Sublime Text 3/Packages/Browser Refresh/Default (Windows).sublime-keymap",
+		"/C/Users/MZ/AppData/Roaming/Sublime Text 3/Packages/User/Default (Windows).sublime-keymap",
+		"/C/Users/MZ/Desktop/Workspace/Eclipse/Java/GestionMateriel/src/util/Creator.java",
+		"/C/Users/MZ/Desktop/Workspace/Web/Jeu de la vie/Mahamadou_Zerbo.html",
+		"/C/Users/MZ/Desktop/Workspace/Eclipse/Java/GestionMateriel/src/util/AppendableObjectOutputStream.java",
+		"/C/Users/MZ/Desktop/Workspace/Eclipse/Java/GestionMateriel/src/classes/Semaine.java",
+		"/C/Users/MZ/Desktop/Workspace/Eclipse/Java/GestionMateriel/src/classes/Salle.java",
+		"/C/Users/MZ/Desktop/Workspace/Eclipse/Java/GestionMateriel/src/classes/Materiel.java",
+		"/C/Users/MZ/Desktop/Workspace/Eclipse/Java/GestionMateriel/src/classes/Formation.java",
+		"/C/Users/MZ/Desktop/Workspace/Eclipse/Java/GestionMateriel/src/classes/Enseignant.java"
+	],
+	"find":
+	{
+		"height": 34.0
+	},
+	"find_in_files":
+	{
+		"height": 90.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"confirmer",
+			"document.getElementById",
+			"css",
+			"']=\"\";",
+			"noter",
+			"star",
+			"give",
+			"rating",
+			"id01",
+			"50",
+			"id01",
+			"container",
+			">\n",
+			"slideIndex",
+			"slideIndex1",
+			"blue",
+			"#4CAF50",
+			"blue",
+			"textes",
+			"type",
+			"list-inline",
+			">\n",
+			"\">\n",
+			"todo",
+			"pwd",
+			"<li></li>",
+			"username",
+			"<",
+			"echo",
+			"TYPE=InnoDB",
+			"GB",
+			"libellle",
+			"libelle",
+			"reference",
+			"Salle",
+			"Object",
+			"Enseignant",
+			"Object",
+			"cast",
+			"Object",
+			"fil",
+			"Set<",
+			"Date",
+			"mysql",
+			"extension",
+			"error_log",
+			"cgi.fo",
+			"cgi",
+			"src=\"\"",
+			"retourner",
+			"mysql",
+			"max",
+			"index",
+			"public",
+			"public_html",
+			"public",
+			"false"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"elt",
+			"changerNote",
+			"Etoile",
+			"Donner",
+			"etoile",
+			"logform",
+			"signform",
+			"lightblue",
+			"blue",
+			"#4CAF50",
+			"engine",
+			"nav nav-pills",
+			"ENGINE=InnoDB",
+			"localisation",
+			"numero",
+			"Semaine",
+			"Enseignant",
+			"Materiel",
+			"Formation",
+			"Enseignant",
+			"Semaine",
+			"Salle",
+			"Vector<",
+			"Hour",
+			"src=\"img/default.jpg\"",
+			"true"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 6,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "css/slides.css",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1334,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								973,
+								973
+							]
+						],
+						"settings":
+						{
+							"color_scheme": "Packages/User/Color Highlighter/themes/Solarized (Light).tmTheme",
+							"function_name_status_row": 63,
+							"syntax": "Packages/CSS/CSS.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 146.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 12,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "css/style.css",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1298,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1190,
+								1190
+							]
+						],
+						"settings":
+						{
+							"color_scheme": "Packages/User/Color Highlighter/themes/Solarized (Light).tmTheme",
+							"function_name_status_row": 92,
+							"syntax": "Packages/CSS/CSS.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 1174.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 11,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "css/forms.css",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2718,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								385,
+								394
+							]
+						],
+						"settings":
+						{
+							"auto_name": "input[type=text], input[type=password] {",
+							"color_scheme": "Packages/User/Color Highlighter/themes/Solarized (Light).tmTheme",
+							"function_name_status_row": 17,
+							"syntax": "Packages/CSS/CSS.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 10,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "signup.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1148,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								378,
+								378
+							]
+						],
+						"settings":
+						{
+							"function_name_status_row": 6,
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "notation.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 985,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								449,
+								449
+							]
+						],
+						"settings":
+						{
+							"function_name_status_row": 13,
+							"syntax": "Packages/PHP/PHP.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "database.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 9025,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								3058,
+								3058
+							]
+						],
+						"settings":
+						{
+							"function_name_status_row": 78,
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 1159.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "index.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 8859,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								7205,
+								7205
+							]
+						],
+						"settings":
+						{
+							"function_name_status_row": 196,
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 2533.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 7,
+					"file": "functions.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 4608,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								3852,
+								3855
+							]
+						],
+						"settings":
+						{
+							"function_name_status_row": 83,
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 1185.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 8,
+					"file": "GoorGoorLu.sublime-project",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 45,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"function_name_status_row": 0,
+							"syntax": "Packages/Better JavaScript/JSON.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 7,
+					"type": "text"
+				},
+				{
+					"buffer": 9,
+					"file": "client.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 314,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								24,
+								24
+							]
+						],
+						"settings":
+						{
+							"function_name_status_row": 1,
+							"syntax": "Packages/PHP/PHP.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 9,
+					"type": "text"
+				},
+				{
+					"buffer": 10,
+					"file": "resultats.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2983,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2415,
+								2415
+							]
+						],
+						"settings":
+						{
+							"color_scheme": "Packages/User/Color Highlighter/themes/Solarized (Light).tmTheme",
+							"function_name_status_row": 54,
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 5,
+					"type": "text"
+				},
+				{
+					"buffer": 11,
+					"file": "login.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 415,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								407,
+								407
+							]
+						],
+						"settings":
+						{
+							"auto_name": "<?php ?>",
+							"color_scheme": "Packages/User/Color Highlighter/themes/Solarized (Light).tmTheme",
+							"function_name_status_row": 10,
+							"syntax": "Packages/PHP/PHP.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 6,
+					"type": "text"
+				},
+				{
+					"buffer": 12,
+					"file": "Deconnection.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 46,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								23,
+								23
+							]
+						],
+						"settings":
+						{
+							"function_name_status_row": 1,
+							"syntax": "Packages/PHP/PHP.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 8,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 25.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "Packages/Java/JavaC.sublime-build",
+	"project": "GoorGoorLu.sublime-project",
+	"replace":
+	{
+		"height": 62.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
