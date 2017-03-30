@@ -1,6 +1,7 @@
 <?php 
 session_start();
 include('functions.php');
+include('db_dir/SqlRequests.php');
 	if (isset($_POST['code'])) {
 		$code=$_POST['code'];
 		validerTravailClient($code);

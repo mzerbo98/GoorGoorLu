@@ -46,7 +46,7 @@
 	//Fonction qui permet de charger les travaux de client confirmes mais non faits par un prestataire
 	function loadClientNonFaits($prestataire){
 		global $con;
-		$result=mysqli_query($con,"select * from client_t where service_prestataire like '$prestataire' and confirme and not fait");
+		$result=mysqli_query($con,"select * from client_t where service_prestataire like '$prestataire' and confirme=1 and fait=0");
 		if (mysqli_num_rows($result)>=1) {
 		while ($c=mysqli_fetch_array($result)) {
 			$clients[]=$c;
@@ -130,7 +130,7 @@
 	//Fonction qui permet de rechercher l'ensemble des prestatires effectuant une categorie de prestation dans une zone donnée
 	function recherchePrestataires($zone,$prestation){
 		global $con;
-		$result=mysqli_query($con,"select pseudo,nom,prenom,adresse,tel,email,tarif,satisfaction from prestataire_t join service_t on prestataire_t.pseudo=service_t.prestataire where pseudo in (select service_t.prestataire from couverture_t join service_t on couverture_t.prestataire=service_t.prestataire where zone like '$zone' and prestation like '$prestation' and disponible) order by satisfaction DESC" );
+		$result=mysqli_query($con,"select pseudo,nom,prenom,adresse,tel,email,tarif,satisfaction from prestataire_t join service_t on prestataire_t.pseudo=service_t.prestataire where pseudo in (select service_t.prestataire from couverture_t join service_t on couverture_t.prestataire=service_t.prestataire where zone like '$zone' and prestation like '$prestation' and disponible) and prestation in (select service_t.prestation from couverture_t join service_t on couverture_t.prestataire=service_t.prestataire where zone like 'Fann' and prestation like 'Maintenance' and disponible) order by satisfaction DESC" );
 		if (mysqli_num_rows($result)>=1) {
 			while ($p=mysqli_fetch_array($result)) {
 			$prestataires[]=$p;
@@ -250,7 +250,7 @@
 	//Fonction qui ajoute un client à la base de donnée
 	function addClient($code,$prestataire,$prestation,$prenom,$nom,$email,$tel){
 		global $con;
-		mysqli_query($con,"insert into client_t values('$code','$prestataire','$prestation','$prenom','$nom','$email',0,'$tel',0)");
+		mysqli_query($con,"insert into client_t values('$code','$prestataire','$prestation','$prenom','$nom','$email',0,'$tel',0,0)");
 	}
 
 	//Fonction qui ajoute une categorie de prestation à la base de données

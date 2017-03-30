@@ -1,9 +1,9 @@
 <?php 
 	session_start();
 	include('functions.php');
+	include('db_dir/SqlRequests.php');
 	if (isset($_POST['code'])) {
 		$code=$_POST['code'];
-		deleteClient($code);
 		$client=rechercheClient($code);
 		$prestataire=$client['service_prestataire'];
 		$tel=recherchePrestataire($prestataire)['tel'];
@@ -13,6 +13,7 @@
 		$message="<h1>Confirmation</h1>";
 		$message.="<p>Bonjour $nom, nous vous envoyons ce mail pour vous signaler que $prestataire a declarer ne pas travailler avec vous.<br>Pour plus de detail veuillez le contacter au $tel. <br> Merci</p>";		
 		$request->envoyerMail($email,$prestataire,"Confirmation de travail",$message,$message);
+		deleteClient($code);
 		header('Location:profilPrest.php');
 	}
 	else

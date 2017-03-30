@@ -71,7 +71,7 @@
 				<h4>Type de prestation : <?php echo $prestation; ?></h4>
 				<div class="cardcontainer">
 				    <button onclick="elt('<?php echo "cancel$index"; ?>').submit();" style="width: 30%; margin-left: 20%;">Annuler</button>
-				    <button onclick="elt('<?php echo "confirm$index"; ?>').submit();" style="width: 30%; margin-left: 20%;">Coonfirmer</button>
+				    <button onclick="elt('<?php echo "confirm$index"; ?>').submit();" style="width: 30%; margin-left: 15%;">Confirmer</button>
 				</div>
 			</div>
 		</div>
@@ -176,7 +176,7 @@
  	//Fonction qui permet de declarer le travail d'un client comme faite
  	function validerTravailClient($code){
  		if (estConfirme($code)) {
- 			updateClient($code,true,true,false);
+ 			updateClient($code,"true","true","false");
  			return true;
  		}
  		return false;
@@ -185,7 +185,7 @@
  	//Fonction qui permet au prestataire de confirmer qu'il travaille avec un client
  	function confirmerClient($code){
  		if (rechercheClient($code)) {
- 			updateClient($code,true,false,false);
+ 			updateClient($code,"true","false","false");
  			return true;
  		}
  			return false;
@@ -193,7 +193,7 @@
 
  	//Fonction permettant de noter un prestataire
  	function noterPrestataire($code,$prestataire,$prestation,$note){
- 		updateClient($code,true,true,true);
+ 		updateClient($code,"true","true","true");
 		updateNote($prestataire,$prestation,$note);
  	}
 

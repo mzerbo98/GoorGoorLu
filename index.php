@@ -52,7 +52,7 @@
 		<script type="text/javascript" src ="js/goorgoorlu.js">
 		</script>
 	</head>
-	<body  bgcolor="#B0CECA">
+	<body >
 		<?php session_start(); 
 		if ((isset($_COOKIES['prestataire']) && $_COOKIES['prestataire']!=null)) {
 			$_SESSION['prestataire']=$_COOKIES['prestataire'];
@@ -69,7 +69,7 @@
 				  <div class="numbertext">1 / 9</div>
 				  <img src="img/slides/1.jpg" style="width:100%">
 				</div>
-
+<!-- 
 				<div class="mySlides fade">
 				  <div class="numbertext">2 / 9</div>
 				  <img src="img/slides/2.jpg" style="width:100%">
@@ -102,21 +102,21 @@
 				<div class="mySlides fade">
 				  <div class="numbertext">9 / 9</div>
 				  <img src="img/slides/9.jpg" style="width:100%">
-				</div>
+				</div> -->
 
 				</div>
 				<br>
 
 				<div style="text-align:center">
 				  <span class="dot"></span> 
+				<!--   <span class="dot"></span> 
 				  <span class="dot"></span> 
 				  <span class="dot"></span> 
 				  <span class="dot"></span> 
 				  <span class="dot"></span> 
 				  <span class="dot"></span> 
 				  <span class="dot"></span> 
-				  <span class="dot"></span> 
-				  <span class="dot"></span> 
+				  <span class="dot"></span> --> 
 				</div>
 
 				<h3 id="linkPres">Vous proposez des services ? </h4>

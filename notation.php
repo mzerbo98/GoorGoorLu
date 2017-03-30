@@ -9,8 +9,10 @@ if (isset($_POST['note']) && rechercheClient($_POST['code'])!=false) {
 		if (estFait($code)) {
 			if (!estNote($code)) {
 				$client=rechercheClient($code);
-				$email=$client['email'];
+				$prenom=$client['prenom'];
+				$nom=$client['nom'];
 				$prestataire=$client['service_prestataire'];
+				$email=recherchePrestataire($prestatire)['email'];
 				$prestation=$client['service_prestation'];
 				$moy=rechercheNote($prestataire,$prestation);
 				$nb=nombreClientNote($prestataire,$prestation);

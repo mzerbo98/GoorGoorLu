@@ -13,10 +13,10 @@
 	<body>
 		<?php session_start();
 		include("functions.php") ;?>
-		<div class="container">
-			<div class="logo">
+		<div class="logo">
 				<a href="index.php"><img src="img/logo.png"></a>
-			</div>
+		</div>
+		<div class="container">			
 			<div>
 				<h1>Résultats de recherche : </h1>
 				<?php 
